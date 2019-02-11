@@ -1,4 +1,5 @@
-enable : true
-heading : Latest
-headingSpan : Posts
-sharing : true
+---
+enable: false
+heading: Latest
+headingSpan: Posts
+sharing: true
