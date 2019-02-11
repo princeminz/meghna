@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Meghna"
 
-theme = "meghna-hugo"
+theme = "meghna"
 
 # Menu
 [menu]
